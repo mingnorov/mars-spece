@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}   
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.head_info {
+justify-content: space-between;
+display: flex ;
+margin-top: auto;
+}
+.main_item{
+    justify-content: space-between;
+    display: flex;
+}
+.main_info{
+    display: flex;
+    justify-content: space-between ;
+    padding: 15px;
+    color: #F0400F;
+}
+h2{
+    justify-content: center;
+    display: flex;
+    color: #0E0D5D;
+}
+.main_parent{
+    display: flex;
+    justify-content: center;
+padding: 15px;
+}
+.knopka{
+    display: flex;
+    justify-content: center;
+    color: #fafafa;
+    border-radius: 15px;
+}
+.Password_info{
+    display: flex;
+    justify-content: center;
+    color: #fafafa;
+    border-radius: 15px;
+    padding: 15px;
+}
+.img{
+    justify-content: center;
+    display: flex;
+}
+.QR{
+    display: flex;
+    justify-content: center;
+    color:gray;
+}
+button{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    color: white;
+}
